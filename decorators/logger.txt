@@ -1,0 +1,2 @@
+Function: counter | Time taken: 0.000087 seconds
+Function: my_sum | Time taken: 0.000060 seconds
