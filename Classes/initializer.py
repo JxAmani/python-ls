@@ -36,3 +36,12 @@ print("")
 # print("gender",eve.gender)
 # print("ribs",eve.ribs)
 # print("curse",eve.curse)
+
+
+
+# Get sata from an obj
+
+print(adam.name)
+# getting data or reading data
+
+# Getters & setters - security- like decorators -- modify when tries to get
